@@ -1,0 +1,1001 @@
+student_id,university,field_of_study,academic_year,age
+S0001,IHEC,Other,4th Year,20
+S0002,ESPRIT,Computer Science,4th Year,25
+S0003,ISAMM,Engineering,5th Year,18
+S0004,FST,Marketing,5th Year,22
+S0005,INSAT,Design,4th Year,25
+S0006,Other,Computer Science,2nd Year,26
+S0007,IHEC,Marketing,3rd Year,20
+S0008,IHEC,Business,3rd Year,23
+S0009,TBS,Design,4th Year,19
+S0010,ESPRIT,Finance,5th Year,19
+S0011,ENIT,Marketing,2nd Year,21
+S0012,Other,Engineering,3rd Year,25
+S0013,FST,Business,1st Year,24
+S0014,ISAMM,Other,4th Year,22
+S0015,ESPRIT,Finance,3rd Year,20
+S0016,TBS,Engineering,3rd Year,19
+S0017,ESPRIT,Engineering,3rd Year,20
+S0018,INSAT,Design,2nd Year,19
+S0019,ISAMM,Design,3rd Year,19
+S0020,FST,Marketing,4th Year,24
+S0021,IHEC,Engineering,2nd Year,19
+S0022,ENIT,Finance,1st Year,18
+S0023,Other,Finance,2nd Year,22
+S0024,ISAMM,Finance,1st Year,20
+S0025,IHEC,Computer Science,2nd Year,22
+S0026,TBS,Marketing,4th Year,19
+S0027,ESPRIT,Finance,1st Year,19
+S0028,INSAT,Other,4th Year,21
+S0029,TBS,Marketing,2nd Year,24
+S0030,FST,Engineering,5th Year,21
+S0031,IHEC,Marketing,4th Year,22
+S0032,Other,Business,2nd Year,22
+S0033,ENIT,Computer Science,3rd Year,20
+S0034,ENIT,Finance,1st Year,20
+S0035,ESPRIT,Other,1st Year,21
+S0036,TBS,Design,5th Year,18
+S0037,TBS,Finance,5th Year,24
+S0038,ESPRIT,Computer Science,1st Year,23
+S0039,TBS,Other,2nd Year,20
+S0040,FST,Marketing,1st Year,21
+S0041,ESPRIT,Engineering,2nd Year,20
+S0042,ISAMM,Other,2nd Year,23
+S0043,FST,Design,2nd Year,24
+S0044,ENIT,Design,3rd Year,18
+S0045,ISAMM,Business,1st Year,21
+S0046,IHEC,Other,5th Year,18
+S0047,ENIT,Marketing,4th Year,22
+S0048,ENIT,Marketing,4th Year,20
+S0049,FST,Design,1st Year,21
+S0050,TBS,Finance,4th Year,22
+S0051,TBS,Business,5th Year,20
+S0052,INSAT,Engineering,1st Year,21
+S0053,IHEC,Engineering,4th Year,24
+S0054,FST,Other,2nd Year,25
+S0055,FST,Design,4th Year,18
+S0056,IHEC,Engineering,3rd Year,21
+S0057,ESPRIT,Design,5th Year,25
+S0058,ESPRIT,Design,1st Year,22
+S0059,TBS,Engineering,2nd Year,19
+S0060,INSAT,Engineering,2nd Year,23
+S0061,FST,Other,2nd Year,19
+S0062,ESPRIT,Marketing,2nd Year,18
+S0063,ESPRIT,Business,2nd Year,23
+S0064,IHEC,Design,1st Year,22
+S0065,FST,Finance,4th Year,24
+S0066,ESPRIT,Marketing,3rd Year,21
+S0067,ESPRIT,Design,5th Year,25
+S0068,ENIT,Other,4th Year,21
+S0069,INSAT,Engineering,1st Year,24
+S0070,ESPRIT,Engineering,1st Year,18
+S0071,TBS,Business,3rd Year,18
+S0072,ESPRIT,Finance,3rd Year,25
+S0073,ISAMM,Engineering,2nd Year,25
+S0074,TBS,Engineering,4th Year,26
+S0075,INSAT,Finance,3rd Year,20
+S0076,ENIT,Engineering,4th Year,18
+S0077,ENIT,Marketing,1st Year,26
+S0078,FST,Marketing,5th Year,23
+S0079,ESPRIT,Business,2nd Year,20
+S0080,IHEC,Computer Science,3rd Year,24
+S0081,FST,Design,3rd Year,26
+S0082,ESPRIT,Computer Science,5th Year,20
+S0083,ISAMM,Engineering,2nd Year,24
+S0084,TBS,Finance,2nd Year,25
+S0085,INSAT,Computer Science,2nd Year,22
+S0086,INSAT,Finance,2nd Year,23
+S0087,IHEC,Design,1st Year,20
+S0088,ESPRIT,Finance,1st Year,26
+S0089,TBS,Engineering,2nd Year,26
+S0090,ESPRIT,Computer Science,3rd Year,26
+S0091,TBS,Other,2nd Year,24
+S0092,FST,Engineering,2nd Year,18
+S0093,ESPRIT,Design,4th Year,21
+S0094,ENIT,Business,2nd Year,22
+S0095,ENIT,Business,5th Year,26
+S0096,FST,Design,4th Year,22
+S0097,ENIT,Other,1st Year,22
+S0098,INSAT,Other,2nd Year,19
+S0099,INSAT,Design,1st Year,25
+S0100,Other,Business,2nd Year,21
+S0101,Other,Other,2nd Year,18
+S0102,FST,Finance,1st Year,26
+S0103,TBS,Business,1st Year,19
+S0104,Other,Computer Science,3rd Year,18
+S0105,IHEC,Other,4th Year,18
+S0106,IHEC,Business,2nd Year,22
+S0107,ESPRIT,Design,5th Year,18
+S0108,ENIT,Computer Science,2nd Year,25
+S0109,INSAT,Business,5th Year,22
+S0110,Other,Business,2nd Year,20
+S0111,ESPRIT,Business,3rd Year,18
+S0112,TBS,Finance,4th Year,22
+S0113,ENIT,Other,1st Year,19
+S0114,ESPRIT,Other,5th Year,26
+S0115,TBS,Design,2nd Year,20
+S0116,ISAMM,Business,3rd Year,22
+S0117,IHEC,Other,4th Year,18
+S0118,IHEC,Marketing,4th Year,19
+S0119,ESPRIT,Marketing,1st Year,19
+S0120,FST,Finance,5th Year,18
+S0121,ESPRIT,Design,4th Year,24
+S0122,FST,Other,5th Year,26
+S0123,INSAT,Finance,3rd Year,26
+S0124,ESPRIT,Finance,4th Year,20
+S0125,INSAT,Design,3rd Year,25
+S0126,ESPRIT,Business,5th Year,22
+S0127,ENIT,Engineering,5th Year,18
+S0128,TBS,Finance,5th Year,18
+S0129,INSAT,Computer Science,3rd Year,22
+S0130,ESPRIT,Engineering,4th Year,21
+S0131,TBS,Design,2nd Year,18
+S0132,Other,Other,3rd Year,26
+S0133,ESPRIT,Marketing,4th Year,24
+S0134,ENIT,Engineering,1st Year,22
+S0135,FST,Marketing,4th Year,26
+S0136,INSAT,Finance,1st Year,26
+S0137,Other,Marketing,3rd Year,26
+S0138,ESPRIT,Computer Science,3rd Year,20
+S0139,IHEC,Marketing,3rd Year,25
+S0140,INSAT,Engineering,3rd Year,22
+S0141,ESPRIT,Finance,3rd Year,24
+S0142,ESPRIT,Other,3rd Year,25
+S0143,Other,Other,3rd Year,19
+S0144,ESPRIT,Finance,3rd Year,22
+S0145,ESPRIT,Engineering,4th Year,19
+S0146,TBS,Marketing,3rd Year,20
+S0147,ENIT,Business,4th Year,21
+S0148,ESPRIT,Other,5th Year,25
+S0149,ESPRIT,Design,5th Year,25
+S0150,INSAT,Design,1st Year,21
+S0151,ISAMM,Engineering,4th Year,20
+S0152,ISAMM,Engineering,2nd Year,22
+S0153,TBS,Design,1st Year,26
+S0154,ESPRIT,Marketing,4th Year,26
+S0155,INSAT,Finance,1st Year,20
+S0156,FST,Marketing,5th Year,19
+S0157,ENIT,Marketing,4th Year,24
+S0158,FST,Finance,5th Year,20
+S0159,IHEC,Design,4th Year,19
+S0160,IHEC,Engineering,5th Year,18
+S0161,INSAT,Design,1st Year,21
+S0162,Other,Business,5th Year,21
+S0163,TBS,Engineering,1st Year,23
+S0164,INSAT,Other,2nd Year,19
+S0165,ESPRIT,Other,1st Year,24
+S0166,ENIT,Other,3rd Year,24
+S0167,ISAMM,Engineering,4th Year,22
+S0168,IHEC,Design,2nd Year,19
+S0169,ENIT,Other,5th Year,22
+S0170,Other,Other,4th Year,24
+S0171,ENIT,Computer Science,4th Year,21
+S0172,ESPRIT,Design,5th Year,20
+S0173,TBS,Other,3rd Year,22
+S0174,Other,Design,2nd Year,21
+S0175,TBS,Business,5th Year,21
+S0176,INSAT,Design,3rd Year,21
+S0177,ESPRIT,Computer Science,4th Year,20
+S0178,Other,Marketing,2nd Year,24
+S0179,ISAMM,Finance,2nd Year,22
+S0180,IHEC,Marketing,1st Year,22
+S0181,ISAMM,Finance,2nd Year,23
+S0182,ISAMM,Business,1st Year,21
+S0183,ESPRIT,Finance,4th Year,18
+S0184,ENIT,Finance,1st Year,25
+S0185,IHEC,Finance,4th Year,18
+S0186,FST,Engineering,5th Year,23
+S0187,ENIT,Engineering,4th Year,20
+S0188,INSAT,Business,3rd Year,19
+S0189,IHEC,Marketing,1st Year,18
+S0190,TBS,Finance,5th Year,26
+S0191,Other,Engineering,1st Year,21
+S0192,TBS,Engineering,4th Year,21
+S0193,TBS,Engineering,4th Year,24
+S0194,ISAMM,Business,1st Year,18
+S0195,TBS,Finance,4th Year,23
+S0196,TBS,Design,1st Year,22
+S0197,FST,Engineering,2nd Year,22
+S0198,ISAMM,Other,5th Year,19
+S0199,TBS,Marketing,5th Year,26
+S0200,ENIT,Business,2nd Year,20
+S0201,IHEC,Engineering,5th Year,24
+S0202,Other,Computer Science,5th Year,24
+S0203,ESPRIT,Computer Science,4th Year,21
+S0204,TBS,Engineering,1st Year,19
+S0205,INSAT,Marketing,2nd Year,20
+S0206,TBS,Design,4th Year,25
+S0207,TBS,Computer Science,5th Year,26
+S0208,FST,Design,5th Year,26
+S0209,TBS,Business,3rd Year,20
+S0210,ESPRIT,Computer Science,2nd Year,23
+S0211,FST,Finance,5th Year,19
+S0212,ESPRIT,Design,2nd Year,24
+S0213,TBS,Finance,2nd Year,21
+S0214,IHEC,Computer Science,5th Year,24
+S0215,IHEC,Computer Science,3rd Year,24
+S0216,IHEC,Engineering,2nd Year,26
+S0217,TBS,Marketing,1st Year,22
+S0218,TBS,Other,3rd Year,21
+S0219,Other,Engineering,5th Year,22
+S0220,ESPRIT,Business,3rd Year,19
+S0221,ENIT,Other,4th Year,19
+S0222,ESPRIT,Business,2nd Year,22
+S0223,FST,Computer Science,4th Year,25
+S0224,Other,Engineering,4th Year,22
+S0225,ENIT,Engineering,4th Year,25
+S0226,Other,Finance,4th Year,19
+S0227,INSAT,Other,3rd Year,22
+S0228,ESPRIT,Other,2nd Year,23
+S0229,FST,Engineering,4th Year,21
+S0230,INSAT,Other,5th Year,18
+S0231,TBS,Finance,5th Year,18
+S0232,ESPRIT,Computer Science,2nd Year,26
+S0233,Other,Other,4th Year,23
+S0234,FST,Computer Science,1st Year,20
+S0235,Other,Finance,3rd Year,20
+S0236,IHEC,Design,3rd Year,18
+S0237,ESPRIT,Business,2nd Year,26
+S0238,IHEC,Business,5th Year,18
+S0239,INSAT,Marketing,5th Year,24
+S0240,INSAT,Other,1st Year,20
+S0241,ISAMM,Business,2nd Year,21
+S0242,IHEC,Finance,2nd Year,20
+S0243,TBS,Marketing,5th Year,25
+S0244,ESPRIT,Computer Science,3rd Year,18
+S0245,FST,Finance,4th Year,21
+S0246,ISAMM,Design,5th Year,20
+S0247,FST,Finance,4th Year,20
+S0248,ESPRIT,Business,1st Year,19
+S0249,ENIT,Business,1st Year,26
+S0250,ESPRIT,Engineering,2nd Year,21
+S0251,FST,Marketing,2nd Year,21
+S0252,ISAMM,Marketing,4th Year,21
+S0253,ESPRIT,Business,1st Year,26
+S0254,TBS,Marketing,2nd Year,21
+S0255,TBS,Engineering,2nd Year,21
+S0256,IHEC,Finance,1st Year,20
+S0257,ISAMM,Design,1st Year,20
+S0258,INSAT,Finance,1st Year,18
+S0259,INSAT,Computer Science,3rd Year,23
+S0260,FST,Other,3rd Year,18
+S0261,TBS,Computer Science,3rd Year,20
+S0262,ISAMM,Other,3rd Year,19
+S0263,ENIT,Computer Science,4th Year,20
+S0264,TBS,Marketing,5th Year,24
+S0265,Other,Computer Science,3rd Year,23
+S0266,TBS,Computer Science,4th Year,26
+S0267,ENIT,Finance,4th Year,21
+S0268,TBS,Design,4th Year,26
+S0269,INSAT,Computer Science,1st Year,18
+S0270,INSAT,Other,5th Year,22
+S0271,INSAT,Engineering,1st Year,25
+S0272,TBS,Engineering,3rd Year,22
+S0273,INSAT,Engineering,4th Year,26
+S0274,FST,Marketing,3rd Year,20
+S0275,FST,Business,2nd Year,18
+S0276,ESPRIT,Engineering,5th Year,24
+S0277,ENIT,Business,1st Year,18
+S0278,ESPRIT,Computer Science,2nd Year,24
+S0279,ISAMM,Engineering,5th Year,24
+S0280,ISAMM,Finance,4th Year,25
+S0281,INSAT,Design,1st Year,22
+S0282,TBS,Engineering,4th Year,26
+S0283,TBS,Engineering,5th Year,19
+S0284,TBS,Design,1st Year,21
+S0285,ESPRIT,Finance,3rd Year,19
+S0286,ESPRIT,Design,3rd Year,24
+S0287,INSAT,Other,1st Year,24
+S0288,ENIT,Design,2nd Year,25
+S0289,ESPRIT,Other,1st Year,24
+S0290,INSAT,Engineering,1st Year,20
+S0291,ISAMM,Engineering,3rd Year,18
+S0292,INSAT,Engineering,3rd Year,26
+S0293,Other,Business,2nd Year,22
+S0294,INSAT,Design,2nd Year,18
+S0295,ISAMM,Design,1st Year,26
+S0296,Other,Design,4th Year,26
+S0297,Other,Business,2nd Year,22
+S0298,IHEC,Marketing,5th Year,24
+S0299,IHEC,Business,3rd Year,18
+S0300,FST,Other,5th Year,18
+S0301,IHEC,Business,4th Year,20
+S0302,TBS,Business,2nd Year,23
+S0303,ESPRIT,Marketing,4th Year,19
+S0304,ESPRIT,Other,2nd Year,18
+S0305,ISAMM,Other,1st Year,24
+S0306,ESPRIT,Computer Science,2nd Year,24
+S0307,ENIT,Engineering,2nd Year,24
+S0308,FST,Business,1st Year,25
+S0309,TBS,Engineering,1st Year,25
+S0310,TBS,Marketing,5th Year,23
+S0311,ESPRIT,Business,3rd Year,22
+S0312,ESPRIT,Computer Science,3rd Year,25
+S0313,TBS,Marketing,5th Year,21
+S0314,ENIT,Computer Science,2nd Year,18
+S0315,ENIT,Business,3rd Year,24
+S0316,ENIT,Computer Science,5th Year,20
+S0317,ENIT,Computer Science,4th Year,26
+S0318,FST,Marketing,2nd Year,21
+S0319,ENIT,Design,2nd Year,25
+S0320,Other,Design,1st Year,18
+S0321,Other,Computer Science,1st Year,23
+S0322,ESPRIT,Computer Science,1st Year,22
+S0323,ENIT,Engineering,4th Year,22
+S0324,ESPRIT,Finance,4th Year,20
+S0325,ISAMM,Design,3rd Year,26
+S0326,FST,Design,4th Year,21
+S0327,IHEC,Engineering,1st Year,25
+S0328,ESPRIT,Business,2nd Year,21
+S0329,FST,Computer Science,2nd Year,18
+S0330,ENIT,Business,5th Year,25
+S0331,IHEC,Computer Science,4th Year,19
+S0332,TBS,Other,5th Year,20
+S0333,FST,Business,2nd Year,25
+S0334,ISAMM,Design,5th Year,26
+S0335,TBS,Marketing,1st Year,26
+S0336,FST,Marketing,2nd Year,21
+S0337,INSAT,Marketing,3rd Year,24
+S0338,IHEC,Design,1st Year,20
+S0339,INSAT,Computer Science,5th Year,24
+S0340,Other,Computer Science,5th Year,22
+S0341,TBS,Engineering,3rd Year,18
+S0342,Other,Engineering,2nd Year,21
+S0343,IHEC,Marketing,1st Year,22
+S0344,FST,Design,4th Year,20
+S0345,IHEC,Finance,3rd Year,21
+S0346,IHEC,Business,4th Year,22
+S0347,Other,Engineering,4th Year,18
+S0348,TBS,Design,1st Year,19
+S0349,FST,Business,1st Year,24
+S0350,INSAT,Marketing,4th Year,21
+S0351,FST,Marketing,1st Year,23
+S0352,TBS,Design,5th Year,23
+S0353,ESPRIT,Design,1st Year,22
+S0354,ESPRIT,Marketing,4th Year,21
+S0355,ESPRIT,Engineering,5th Year,22
+S0356,ESPRIT,Engineering,3rd Year,25
+S0357,IHEC,Engineering,1st Year,26
+S0358,IHEC,Business,5th Year,20
+S0359,ESPRIT,Finance,1st Year,24
+S0360,FST,Business,3rd Year,26
+S0361,Other,Finance,5th Year,18
+S0362,INSAT,Design,4th Year,25
+S0363,INSAT,Other,1st Year,22
+S0364,INSAT,Computer Science,5th Year,26
+S0365,FST,Design,1st Year,23
+S0366,ESPRIT,Computer Science,4th Year,25
+S0367,IHEC,Engineering,4th Year,19
+S0368,FST,Business,2nd Year,19
+S0369,ENIT,Business,3rd Year,26
+S0370,ISAMM,Business,1st Year,22
+S0371,IHEC,Computer Science,5th Year,23
+S0372,ENIT,Design,2nd Year,19
+S0373,ENIT,Computer Science,2nd Year,20
+S0374,ENIT,Engineering,3rd Year,25
+S0375,TBS,Finance,4th Year,20
+S0376,TBS,Other,3rd Year,23
+S0377,Other,Design,3rd Year,20
+S0378,ESPRIT,Computer Science,3rd Year,20
+S0379,ENIT,Other,5th Year,19
+S0380,IHEC,Finance,2nd Year,26
+S0381,ESPRIT,Business,5th Year,26
+S0382,Other,Marketing,4th Year,19
+S0383,IHEC,Other,5th Year,21
+S0384,ESPRIT,Engineering,5th Year,23
+S0385,ENIT,Business,4th Year,21
+S0386,Other,Other,2nd Year,24
+S0387,IHEC,Other,4th Year,20
+S0388,Other,Other,4th Year,18
+S0389,INSAT,Other,2nd Year,21
+S0390,ISAMM,Other,4th Year,23
+S0391,FST,Marketing,2nd Year,19
+S0392,TBS,Business,3rd Year,25
+S0393,ESPRIT,Finance,4th Year,18
+S0394,FST,Business,1st Year,18
+S0395,INSAT,Marketing,2nd Year,22
+S0396,ESPRIT,Finance,4th Year,22
+S0397,ISAMM,Other,3rd Year,20
+S0398,ENIT,Engineering,5th Year,20
+S0399,ESPRIT,Business,1st Year,18
+S0400,ESPRIT,Design,4th Year,23
+S0401,ENIT,Computer Science,5th Year,21
+S0402,Other,Marketing,5th Year,19
+S0403,IHEC,Design,1st Year,21
+S0404,INSAT,Marketing,5th Year,26
+S0405,Other,Engineering,2nd Year,20
+S0406,ISAMM,Design,2nd Year,26
+S0407,ENIT,Engineering,2nd Year,20
+S0408,ISAMM,Finance,4th Year,19
+S0409,INSAT,Marketing,4th Year,20
+S0410,Other,Computer Science,3rd Year,20
+S0411,FST,Marketing,1st Year,19
+S0412,FST,Computer Science,5th Year,23
+S0413,INSAT,Other,2nd Year,21
+S0414,ISAMM,Finance,1st Year,24
+S0415,INSAT,Engineering,3rd Year,22
+S0416,TBS,Marketing,3rd Year,21
+S0417,TBS,Finance,4th Year,22
+S0418,IHEC,Business,5th Year,19
+S0419,TBS,Engineering,1st Year,24
+S0420,Other,Engineering,2nd Year,18
+S0421,FST,Business,3rd Year,24
+S0422,INSAT,Design,4th Year,26
+S0423,INSAT,Computer Science,4th Year,24
+S0424,INSAT,Design,2nd Year,22
+S0425,FST,Engineering,4th Year,20
+S0426,IHEC,Marketing,5th Year,25
+S0427,TBS,Business,3rd Year,20
+S0428,ISAMM,Engineering,5th Year,22
+S0429,INSAT,Design,4th Year,24
+S0430,IHEC,Business,2nd Year,26
+S0431,Other,Computer Science,2nd Year,26
+S0432,IHEC,Marketing,4th Year,18
+S0433,FST,Business,2nd Year,26
+S0434,ISAMM,Engineering,2nd Year,19
+S0435,INSAT,Marketing,2nd Year,23
+S0436,TBS,Marketing,4th Year,26
+S0437,TBS,Finance,2nd Year,23
+S0438,ESPRIT,Finance,4th Year,26
+S0439,IHEC,Design,5th Year,21
+S0440,FST,Computer Science,5th Year,20
+S0441,ISAMM,Engineering,5th Year,20
+S0442,TBS,Computer Science,1st Year,21
+S0443,IHEC,Computer Science,3rd Year,24
+S0444,TBS,Business,2nd Year,22
+S0445,ENIT,Finance,5th Year,24
+S0446,FST,Other,4th Year,21
+S0447,Other,Design,2nd Year,20
+S0448,FST,Finance,3rd Year,19
+S0449,INSAT,Design,4th Year,22
+S0450,FST,Business,3rd Year,26
+S0451,INSAT,Design,3rd Year,25
+S0452,ISAMM,Other,1st Year,20
+S0453,FST,Computer Science,3rd Year,22
+S0454,TBS,Marketing,2nd Year,24
+S0455,INSAT,Design,5th Year,23
+S0456,TBS,Marketing,5th Year,18
+S0457,Other,Design,4th Year,23
+S0458,ESPRIT,Other,1st Year,18
+S0459,IHEC,Marketing,5th Year,19
+S0460,FST,Computer Science,2nd Year,23
+S0461,ESPRIT,Engineering,3rd Year,18
+S0462,TBS,Business,5th Year,21
+S0463,Other,Marketing,5th Year,23
+S0464,ENIT,Finance,1st Year,23
+S0465,ESPRIT,Marketing,2nd Year,22
+S0466,FST,Business,4th Year,18
+S0467,FST,Engineering,3rd Year,25
+S0468,Other,Finance,2nd Year,26
+S0469,TBS,Computer Science,3rd Year,25
+S0470,ESPRIT,Business,5th Year,24
+S0471,ESPRIT,Other,2nd Year,21
+S0472,ESPRIT,Computer Science,4th Year,25
+S0473,INSAT,Engineering,4th Year,22
+S0474,TBS,Business,5th Year,19
+S0475,ENIT,Computer Science,2nd Year,25
+S0476,ENIT,Engineering,2nd Year,20
+S0477,ESPRIT,Marketing,3rd Year,26
+S0478,FST,Business,3rd Year,21
+S0479,FST,Computer Science,3rd Year,25
+S0480,ESPRIT,Computer Science,4th Year,22
+S0481,ESPRIT,Finance,4th Year,22
+S0482,TBS,Other,2nd Year,20
+S0483,ESPRIT,Business,4th Year,25
+S0484,ENIT,Engineering,2nd Year,18
+S0485,INSAT,Engineering,3rd Year,22
+S0486,ESPRIT,Engineering,1st Year,21
+S0487,ESPRIT,Business,2nd Year,22
+S0488,TBS,Computer Science,5th Year,20
+S0489,ESPRIT,Marketing,3rd Year,23
+S0490,ESPRIT,Engineering,4th Year,21
+S0491,FST,Engineering,1st Year,19
+S0492,FST,Business,4th Year,19
+S0493,FST,Other,2nd Year,24
+S0494,ENIT,Finance,4th Year,20
+S0495,IHEC,Engineering,5th Year,20
+S0496,ESPRIT,Business,3rd Year,23
+S0497,ESPRIT,Design,1st Year,20
+S0498,FST,Other,3rd Year,21
+S0499,ENIT,Computer Science,1st Year,20
+S0500,ESPRIT,Other,3rd Year,21
+S0501,IHEC,Finance,1st Year,24
+S0502,ISAMM,Computer Science,4th Year,22
+S0503,Other,Design,2nd Year,26
+S0504,ESPRIT,Computer Science,2nd Year,24
+S0505,ESPRIT,Computer Science,1st Year,18
+S0506,IHEC,Computer Science,5th Year,21
+S0507,ENIT,Marketing,5th Year,20
+S0508,ISAMM,Finance,5th Year,23
+S0509,ESPRIT,Engineering,1st Year,20
+S0510,INSAT,Computer Science,2nd Year,26
+S0511,INSAT,Business,5th Year,20
+S0512,ISAMM,Design,3rd Year,22
+S0513,INSAT,Other,1st Year,19
+S0514,ENIT,Design,1st Year,26
+S0515,ENIT,Computer Science,2nd Year,26
+S0516,TBS,Design,5th Year,25
+S0517,ENIT,Finance,1st Year,21
+S0518,IHEC,Marketing,5th Year,18
+S0519,INSAT,Business,4th Year,24
+S0520,ISAMM,Other,5th Year,21
+S0521,ISAMM,Marketing,5th Year,26
+S0522,ENIT,Computer Science,2nd Year,24
+S0523,TBS,Business,5th Year,22
+S0524,FST,Engineering,1st Year,26
+S0525,INSAT,Computer Science,2nd Year,25
+S0526,ENIT,Engineering,2nd Year,22
+S0527,Other,Marketing,1st Year,18
+S0528,Other,Other,1st Year,18
+S0529,IHEC,Computer Science,1st Year,21
+S0530,ENIT,Finance,1st Year,23
+S0531,FST,Other,2nd Year,18
+S0532,FST,Design,1st Year,19
+S0533,ENIT,Other,1st Year,24
+S0534,FST,Business,5th Year,24
+S0535,INSAT,Design,1st Year,18
+S0536,TBS,Other,1st Year,22
+S0537,ESPRIT,Engineering,1st Year,18
+S0538,TBS,Marketing,1st Year,24
+S0539,TBS,Marketing,3rd Year,25
+S0540,ISAMM,Marketing,5th Year,25
+S0541,Other,Engineering,4th Year,23
+S0542,ESPRIT,Other,3rd Year,23
+S0543,ISAMM,Other,1st Year,26
+S0544,Other,Engineering,4th Year,23
+S0545,TBS,Design,1st Year,22
+S0546,ESPRIT,Engineering,4th Year,24
+S0547,ESPRIT,Design,3rd Year,23
+S0548,INSAT,Finance,5th Year,25
+S0549,IHEC,Marketing,2nd Year,22
+S0550,ESPRIT,Computer Science,4th Year,25
+S0551,ESPRIT,Finance,3rd Year,18
+S0552,TBS,Engineering,3rd Year,18
+S0553,TBS,Business,5th Year,18
+S0554,Other,Business,4th Year,23
+S0555,INSAT,Other,3rd Year,24
+S0556,TBS,Computer Science,3rd Year,19
+S0557,ENIT,Design,4th Year,19
+S0558,ESPRIT,Other,2nd Year,25
+S0559,ESPRIT,Computer Science,1st Year,24
+S0560,ESPRIT,Finance,3rd Year,23
+S0561,INSAT,Finance,1st Year,22
+S0562,TBS,Engineering,1st Year,21
+S0563,ISAMM,Finance,3rd Year,18
+S0564,FST,Engineering,4th Year,19
+S0565,FST,Marketing,4th Year,26
+S0566,FST,Marketing,2nd Year,21
+S0567,IHEC,Design,3rd Year,24
+S0568,INSAT,Finance,1st Year,24
+S0569,ENIT,Engineering,4th Year,20
+S0570,ESPRIT,Other,2nd Year,19
+S0571,ENIT,Design,4th Year,24
+S0572,ISAMM,Other,5th Year,18
+S0573,ESPRIT,Design,4th Year,22
+S0574,IHEC,Engineering,2nd Year,25
+S0575,ISAMM,Design,5th Year,24
+S0576,ESPRIT,Engineering,4th Year,24
+S0577,Other,Business,4th Year,18
+S0578,ESPRIT,Marketing,5th Year,19
+S0579,ISAMM,Other,5th Year,20
+S0580,ENIT,Marketing,1st Year,20
+S0581,ESPRIT,Engineering,5th Year,19
+S0582,ESPRIT,Marketing,4th Year,26
+S0583,INSAT,Engineering,2nd Year,19
+S0584,ESPRIT,Finance,2nd Year,24
+S0585,Other,Engineering,4th Year,23
+S0586,FST,Marketing,2nd Year,23
+S0587,TBS,Engineering,3rd Year,19
+S0588,ENIT,Engineering,4th Year,20
+S0589,TBS,Other,4th Year,23
+S0590,INSAT,Engineering,5th Year,20
+S0591,Other,Computer Science,1st Year,24
+S0592,ESPRIT,Engineering,2nd Year,18
+S0593,ENIT,Marketing,5th Year,18
+S0594,FST,Computer Science,3rd Year,24
+S0595,INSAT,Engineering,2nd Year,23
+S0596,ENIT,Business,2nd Year,18
+S0597,FST,Marketing,2nd Year,26
+S0598,FST,Design,3rd Year,18
+S0599,Other,Other,2nd Year,26
+S0600,FST,Engineering,4th Year,24
+S0601,ESPRIT,Other,3rd Year,26
+S0602,IHEC,Business,4th Year,26
+S0603,Other,Design,1st Year,20
+S0604,IHEC,Marketing,4th Year,24
+S0605,Other,Design,5th Year,19
+S0606,IHEC,Design,1st Year,22
+S0607,ISAMM,Marketing,2nd Year,20
+S0608,INSAT,Business,4th Year,22
+S0609,IHEC,Marketing,4th Year,25
+S0610,ESPRIT,Design,4th Year,21
+S0611,ESPRIT,Other,3rd Year,18
+S0612,FST,Other,4th Year,20
+S0613,Other,Business,4th Year,25
+S0614,Other,Finance,1st Year,22
+S0615,ENIT,Computer Science,4th Year,23
+S0616,IHEC,Finance,3rd Year,21
+S0617,IHEC,Other,1st Year,20
+S0618,ENIT,Computer Science,3rd Year,23
+S0619,TBS,Finance,3rd Year,23
+S0620,INSAT,Other,1st Year,26
+S0621,IHEC,Design,5th Year,23
+S0622,ESPRIT,Engineering,2nd Year,26
+S0623,Other,Computer Science,2nd Year,25
+S0624,ESPRIT,Other,3rd Year,18
+S0625,Other,Other,5th Year,21
+S0626,ESPRIT,Finance,4th Year,21
+S0627,IHEC,Other,4th Year,18
+S0628,INSAT,Computer Science,2nd Year,19
+S0629,ESPRIT,Finance,5th Year,24
+S0630,IHEC,Computer Science,5th Year,21
+S0631,Other,Other,3rd Year,19
+S0632,ISAMM,Finance,3rd Year,20
+S0633,INSAT,Other,1st Year,20
+S0634,ENIT,Marketing,4th Year,19
+S0635,INSAT,Computer Science,5th Year,18
+S0636,INSAT,Computer Science,3rd Year,24
+S0637,FST,Engineering,3rd Year,25
+S0638,IHEC,Design,3rd Year,22
+S0639,IHEC,Business,1st Year,23
+S0640,ISAMM,Design,4th Year,26
+S0641,IHEC,Business,4th Year,25
+S0642,IHEC,Marketing,5th Year,18
+S0643,INSAT,Business,5th Year,26
+S0644,TBS,Marketing,3rd Year,18
+S0645,FST,Marketing,5th Year,18
+S0646,ISAMM,Computer Science,3rd Year,21
+S0647,INSAT,Marketing,4th Year,24
+S0648,ESPRIT,Design,4th Year,18
+S0649,FST,Other,5th Year,20
+S0650,INSAT,Engineering,4th Year,20
+S0651,ESPRIT,Other,1st Year,21
+S0652,ISAMM,Other,1st Year,26
+S0653,FST,Other,3rd Year,20
+S0654,TBS,Engineering,3rd Year,19
+S0655,ISAMM,Design,4th Year,19
+S0656,ENIT,Marketing,3rd Year,19
+S0657,ISAMM,Computer Science,3rd Year,19
+S0658,ENIT,Business,5th Year,23
+S0659,FST,Finance,2nd Year,21
+S0660,ESPRIT,Business,3rd Year,22
+S0661,ENIT,Marketing,3rd Year,25
+S0662,ISAMM,Design,3rd Year,23
+S0663,TBS,Business,5th Year,19
+S0664,INSAT,Marketing,5th Year,21
+S0665,ENIT,Business,3rd Year,20
+S0666,IHEC,Marketing,3rd Year,25
+S0667,IHEC,Business,3rd Year,20
+S0668,Other,Other,1st Year,19
+S0669,ENIT,Computer Science,3rd Year,24
+S0670,ESPRIT,Other,2nd Year,21
+S0671,TBS,Design,1st Year,18
+S0672,ESPRIT,Design,1st Year,24
+S0673,Other,Design,3rd Year,19
+S0674,FST,Business,1st Year,25
+S0675,FST,Other,4th Year,25
+S0676,ESPRIT,Finance,3rd Year,21
+S0677,Other,Other,2nd Year,23
+S0678,ESPRIT,Other,4th Year,23
+S0679,TBS,Finance,3rd Year,23
+S0680,ENIT,Engineering,4th Year,18
+S0681,INSAT,Computer Science,4th Year,20
+S0682,TBS,Computer Science,1st Year,19
+S0683,INSAT,Engineering,2nd Year,24
+S0684,ESPRIT,Design,3rd Year,18
+S0685,FST,Marketing,5th Year,22
+S0686,ENIT,Marketing,1st Year,24
+S0687,ESPRIT,Business,1st Year,26
+S0688,Other,Marketing,5th Year,20
+S0689,IHEC,Finance,5th Year,18
+S0690,ESPRIT,Other,1st Year,24
+S0691,ENIT,Design,3rd Year,18
+S0692,ISAMM,Finance,4th Year,18
+S0693,TBS,Other,1st Year,26
+S0694,ENIT,Engineering,2nd Year,25
+S0695,Other,Other,2nd Year,24
+S0696,ESPRIT,Engineering,4th Year,25
+S0697,IHEC,Computer Science,2nd Year,18
+S0698,FST,Engineering,3rd Year,18
+S0699,FST,Computer Science,2nd Year,20
+S0700,ENIT,Computer Science,4th Year,18
+S0701,TBS,Other,1st Year,25
+S0702,ENIT,Design,2nd Year,18
+S0703,TBS,Business,2nd Year,22
+S0704,ISAMM,Design,5th Year,25
+S0705,ENIT,Computer Science,5th Year,24
+S0706,ESPRIT,Business,3rd Year,20
+S0707,IHEC,Finance,1st Year,22
+S0708,IHEC,Engineering,4th Year,22
+S0709,ESPRIT,Design,3rd Year,24
+S0710,ESPRIT,Other,5th Year,21
+S0711,Other,Computer Science,2nd Year,20
+S0712,FST,Computer Science,5th Year,25
+S0713,ISAMM,Other,5th Year,25
+S0714,Other,Marketing,2nd Year,22
+S0715,IHEC,Marketing,4th Year,18
+S0716,TBS,Marketing,2nd Year,22
+S0717,ESPRIT,Marketing,2nd Year,26
+S0718,INSAT,Finance,2nd Year,26
+S0719,FST,Finance,4th Year,21
+S0720,Other,Business,2nd Year,19
+S0721,ESPRIT,Finance,4th Year,23
+S0722,ESPRIT,Finance,3rd Year,25
+S0723,INSAT,Computer Science,4th Year,26
+S0724,Other,Engineering,5th Year,18
+S0725,INSAT,Design,1st Year,20
+S0726,INSAT,Finance,5th Year,22
+S0727,TBS,Computer Science,1st Year,18
+S0728,INSAT,Computer Science,3rd Year,25
+S0729,ESPRIT,Finance,2nd Year,19
+S0730,ESPRIT,Marketing,4th Year,23
+S0731,ENIT,Other,4th Year,26
+S0732,INSAT,Marketing,5th Year,24
+S0733,INSAT,Other,3rd Year,24
+S0734,ENIT,Business,5th Year,20
+S0735,INSAT,Marketing,2nd Year,25
+S0736,FST,Computer Science,2nd Year,21
+S0737,TBS,Finance,2nd Year,18
+S0738,ENIT,Business,3rd Year,21
+S0739,ESPRIT,Marketing,4th Year,21
+S0740,ESPRIT,Engineering,5th Year,22
+S0741,INSAT,Business,2nd Year,20
+S0742,INSAT,Computer Science,2nd Year,22
+S0743,ISAMM,Marketing,5th Year,21
+S0744,INSAT,Other,3rd Year,20
+S0745,ESPRIT,Business,2nd Year,24
+S0746,ESPRIT,Engineering,5th Year,20
+S0747,ENIT,Business,3rd Year,24
+S0748,ESPRIT,Design,5th Year,20
+S0749,IHEC,Engineering,5th Year,25
+S0750,ISAMM,Other,5th Year,21
+S0751,TBS,Business,3rd Year,18
+S0752,ENIT,Computer Science,4th Year,19
+S0753,TBS,Finance,5th Year,25
+S0754,ESPRIT,Finance,2nd Year,25
+S0755,FST,Other,1st Year,19
+S0756,TBS,Other,2nd Year,23
+S0757,ENIT,Other,4th Year,23
+S0758,Other,Finance,3rd Year,19
+S0759,INSAT,Engineering,1st Year,22
+S0760,ESPRIT,Marketing,3rd Year,24
+S0761,IHEC,Computer Science,1st Year,26
+S0762,TBS,Marketing,3rd Year,25
+S0763,INSAT,Engineering,3rd Year,18
+S0764,TBS,Computer Science,4th Year,20
+S0765,Other,Business,3rd Year,21
+S0766,INSAT,Marketing,3rd Year,19
+S0767,TBS,Engineering,4th Year,23
+S0768,INSAT,Other,4th Year,18
+S0769,INSAT,Marketing,5th Year,19
+S0770,FST,Other,2nd Year,18
+S0771,TBS,Finance,3rd Year,20
+S0772,ESPRIT,Computer Science,2nd Year,24
+S0773,FST,Business,3rd Year,19
+S0774,ISAMM,Finance,1st Year,26
+S0775,INSAT,Marketing,3rd Year,20
+S0776,ISAMM,Engineering,1st Year,18
+S0777,FST,Marketing,3rd Year,21
+S0778,TBS,Other,5th Year,24
+S0779,IHEC,Engineering,5th Year,18
+S0780,ISAMM,Computer Science,3rd Year,18
+S0781,TBS,Engineering,1st Year,25
+S0782,Other,Other,2nd Year,23
+S0783,ESPRIT,Design,1st Year,21
+S0784,FST,Design,4th Year,24
+S0785,Other,Other,5th Year,25
+S0786,ENIT,Computer Science,3rd Year,21
+S0787,ISAMM,Business,1st Year,23
+S0788,ENIT,Computer Science,1st Year,18
+S0789,IHEC,Computer Science,5th Year,20
+S0790,FST,Design,2nd Year,23
+S0791,TBS,Other,1st Year,19
+S0792,ESPRIT,Business,1st Year,26
+S0793,ENIT,Design,2nd Year,26
+S0794,INSAT,Marketing,4th Year,20
+S0795,INSAT,Computer Science,5th Year,21
+S0796,ENIT,Other,2nd Year,19
+S0797,INSAT,Other,4th Year,22
+S0798,TBS,Marketing,1st Year,19
+S0799,IHEC,Finance,1st Year,21
+S0800,FST,Engineering,1st Year,22
+S0801,IHEC,Design,5th Year,23
+S0802,ENIT,Marketing,3rd Year,23
+S0803,ISAMM,Other,5th Year,19
+S0804,FST,Computer Science,1st Year,25
+S0805,TBS,Business,1st Year,24
+S0806,TBS,Other,5th Year,24
+S0807,FST,Engineering,1st Year,22
+S0808,TBS,Engineering,1st Year,26
+S0809,ESPRIT,Design,3rd Year,21
+S0810,Other,Business,4th Year,25
+S0811,INSAT,Marketing,2nd Year,19
+S0812,INSAT,Engineering,3rd Year,20
+S0813,Other,Business,4th Year,22
+S0814,ESPRIT,Other,3rd Year,23
+S0815,TBS,Business,2nd Year,24
+S0816,ISAMM,Computer Science,1st Year,20
+S0817,ISAMM,Finance,3rd Year,25
+S0818,ESPRIT,Other,5th Year,20
+S0819,FST,Computer Science,4th Year,22
+S0820,ENIT,Finance,5th Year,26
+S0821,INSAT,Marketing,1st Year,22
+S0822,FST,Design,1st Year,24
+S0823,ENIT,Computer Science,3rd Year,26
+S0824,FST,Other,1st Year,26
+S0825,ISAMM,Finance,3rd Year,22
+S0826,INSAT,Design,5th Year,21
+S0827,FST,Engineering,2nd Year,19
+S0828,TBS,Other,3rd Year,22
+S0829,ISAMM,Finance,4th Year,26
+S0830,TBS,Computer Science,1st Year,22
+S0831,FST,Other,5th Year,21
+S0832,ESPRIT,Design,2nd Year,18
+S0833,ESPRIT,Engineering,5th Year,21
+S0834,FST,Marketing,4th Year,20
+S0835,IHEC,Engineering,1st Year,26
+S0836,ESPRIT,Marketing,4th Year,22
+S0837,IHEC,Other,1st Year,19
+S0838,Other,Other,3rd Year,18
+S0839,ESPRIT,Business,5th Year,25
+S0840,ESPRIT,Other,5th Year,26
+S0841,INSAT,Marketing,5th Year,24
+S0842,IHEC,Finance,3rd Year,19
+S0843,ESPRIT,Design,3rd Year,18
+S0844,ESPRIT,Marketing,2nd Year,19
+S0845,INSAT,Marketing,5th Year,24
+S0846,ISAMM,Marketing,3rd Year,24
+S0847,ESPRIT,Other,4th Year,25
+S0848,FST,Engineering,2nd Year,18
+S0849,TBS,Business,4th Year,19
+S0850,Other,Engineering,2nd Year,26
+S0851,TBS,Business,4th Year,26
+S0852,TBS,Engineering,1st Year,24
+S0853,ISAMM,Computer Science,1st Year,18
+S0854,Other,Computer Science,2nd Year,18
+S0855,TBS,Design,3rd Year,18
+S0856,ESPRIT,Computer Science,4th Year,24
+S0857,IHEC,Marketing,2nd Year,25
+S0858,ISAMM,Design,1st Year,23
+S0859,ENIT,Design,2nd Year,20
+S0860,ESPRIT,Marketing,3rd Year,24
+S0861,IHEC,Business,3rd Year,18
+S0862,IHEC,Other,4th Year,25
+S0863,IHEC,Design,2nd Year,26
+S0864,ESPRIT,Finance,4th Year,24
+S0865,INSAT,Computer Science,4th Year,25
+S0866,Other,Computer Science,4th Year,23
+S0867,ISAMM,Engineering,3rd Year,22
+S0868,IHEC,Business,5th Year,20
+S0869,INSAT,Other,2nd Year,26
+S0870,TBS,Business,4th Year,24
+S0871,IHEC,Business,1st Year,19
+S0872,INSAT,Other,1st Year,26
+S0873,Other,Design,5th Year,18
+S0874,ENIT,Business,3rd Year,23
+S0875,IHEC,Engineering,4th Year,19
+S0876,ISAMM,Marketing,4th Year,23
+S0877,ESPRIT,Finance,4th Year,21
+S0878,ENIT,Other,2nd Year,21
+S0879,FST,Other,1st Year,24
+S0880,ESPRIT,Other,1st Year,24
+S0881,ESPRIT,Computer Science,5th Year,21
+S0882,FST,Business,2nd Year,26
+S0883,Other,Marketing,3rd Year,22
+S0884,ESPRIT,Computer Science,3rd Year,19
+S0885,TBS,Engineering,1st Year,18
+S0886,ENIT,Business,3rd Year,19
+S0887,ESPRIT,Other,1st Year,24
+S0888,TBS,Computer Science,1st Year,22
+S0889,TBS,Business,1st Year,21
+S0890,FST,Business,5th Year,22
+S0891,ENIT,Business,3rd Year,25
+S0892,Other,Marketing,5th Year,23
+S0893,TBS,Engineering,3rd Year,18
+S0894,INSAT,Other,2nd Year,18
+S0895,IHEC,Business,4th Year,22
+S0896,ISAMM,Marketing,5th Year,21
+S0897,ENIT,Finance,3rd Year,25
+S0898,TBS,Finance,1st Year,23
+S0899,TBS,Design,2nd Year,24
+S0900,ESPRIT,Business,5th Year,23
+S0901,ESPRIT,Marketing,3rd Year,21
+S0902,TBS,Design,5th Year,23
+S0903,INSAT,Other,3rd Year,23
+S0904,ESPRIT,Finance,1st Year,24
+S0905,Other,Finance,5th Year,19
+S0906,FST,Other,4th Year,23
+S0907,ESPRIT,Finance,4th Year,20
+S0908,INSAT,Other,5th Year,25
+S0909,TBS,Computer Science,1st Year,25
+S0910,ENIT,Engineering,5th Year,23
+S0911,IHEC,Computer Science,2nd Year,26
+S0912,ISAMM,Computer Science,5th Year,22
+S0913,Other,Marketing,1st Year,18
+S0914,Other,Business,3rd Year,23
+S0915,Other,Engineering,4th Year,24
+S0916,Other,Marketing,1st Year,18
+S0917,INSAT,Finance,1st Year,18
+S0918,TBS,Other,5th Year,20
+S0919,ENIT,Design,1st Year,25
+S0920,ESPRIT,Engineering,4th Year,22
+S0921,INSAT,Engineering,5th Year,26
+S0922,ISAMM,Design,4th Year,25
+S0923,FST,Computer Science,3rd Year,22
+S0924,ESPRIT,Marketing,3rd Year,24
+S0925,TBS,Engineering,4th Year,20
+S0926,TBS,Business,3rd Year,18
+S0927,TBS,Finance,3rd Year,21
+S0928,ISAMM,Engineering,1st Year,23
+S0929,ESPRIT,Business,4th Year,19
+S0930,IHEC,Finance,4th Year,19
+S0931,ENIT,Business,4th Year,18
+S0932,ENIT,Finance,1st Year,24
+S0933,ESPRIT,Business,4th Year,26
+S0934,IHEC,Marketing,4th Year,25
+S0935,IHEC,Design,1st Year,21
+S0936,TBS,Business,5th Year,23
+S0937,Other,Design,3rd Year,26
+S0938,TBS,Design,3rd Year,23
+S0939,ISAMM,Other,4th Year,20
+S0940,INSAT,Business,3rd Year,21
+S0941,TBS,Design,3rd Year,24
+S0942,ISAMM,Other,2nd Year,22
+S0943,TBS,Design,5th Year,25
+S0944,ESPRIT,Business,5th Year,25
+S0945,ESPRIT,Design,1st Year,18
+S0946,TBS,Computer Science,4th Year,24
+S0947,IHEC,Finance,1st Year,21
+S0948,ISAMM,Marketing,2nd Year,22
+S0949,ISAMM,Marketing,5th Year,20
+S0950,ENIT,Marketing,1st Year,21
+S0951,ESPRIT,Computer Science,2nd Year,20
+S0952,TBS,Marketing,2nd Year,18
+S0953,TBS,Other,4th Year,25
+S0954,TBS,Marketing,3rd Year,19
+S0955,Other,Business,3rd Year,21
+S0956,ISAMM,Other,5th Year,19
+S0957,IHEC,Computer Science,3rd Year,19
+S0958,ESPRIT,Marketing,4th Year,21
+S0959,ESPRIT,Marketing,1st Year,26
+S0960,ESPRIT,Marketing,2nd Year,26
+S0961,ESPRIT,Other,5th Year,21
+S0962,ESPRIT,Engineering,5th Year,22
+S0963,TBS,Other,4th Year,26
+S0964,TBS,Computer Science,2nd Year,20
+S0965,Other,Design,1st Year,26
+S0966,ESPRIT,Finance,5th Year,18
+S0967,Other,Business,4th Year,20
+S0968,TBS,Business,2nd Year,21
+S0969,ESPRIT,Design,3rd Year,18
+S0970,TBS,Finance,4th Year,25
+S0971,TBS,Finance,3rd Year,25
+S0972,INSAT,Computer Science,5th Year,21
+S0973,INSAT,Finance,1st Year,25
+S0974,Other,Other,2nd Year,24
+S0975,ENIT,Computer Science,1st Year,25
+S0976,FST,Marketing,4th Year,25
+S0977,ESPRIT,Marketing,4th Year,23
+S0978,ESPRIT,Other,5th Year,18
+S0979,ESPRIT,Business,3rd Year,26
+S0980,TBS,Marketing,1st Year,23
+S0981,Other,Design,3rd Year,26
+S0982,ISAMM,Computer Science,1st Year,26
+S0983,IHEC,Design,4th Year,19
+S0984,ESPRIT,Design,4th Year,21
+S0985,TBS,Design,5th Year,19
+S0986,Other,Finance,2nd Year,18
+S0987,ENIT,Design,2nd Year,26
+S0988,INSAT,Design,1st Year,26
+S0989,ENIT,Other,3rd Year,26
+S0990,IHEC,Engineering,3rd Year,25
+S0991,FST,Marketing,4th Year,23
+S0992,IHEC,Finance,4th Year,22
+S0993,IHEC,Business,1st Year,26
+S0994,TBS,Design,2nd Year,22
+S0995,Other,Design,3rd Year,23
+S0996,ESPRIT,Finance,2nd Year,19
+S0997,FST,Engineering,1st Year,24
+S0998,INSAT,Engineering,5th Year,25
+S0999,Other,Marketing,4th Year,24
+S1000,ENIT,Finance,3rd Year,22

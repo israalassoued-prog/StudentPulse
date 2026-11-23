@@ -1,0 +1,37 @@
+event_id,event_name,category,event_date,capacity,location
+E001,Technology Event 1,Career Development,2026-01-01 00:00:00.000000,84,Sousse
+E002,Technology Event 2,Networking,2026-01-09 15:46:17.142857,170,Sousse
+E003,Workshop Event 3,Career Development,2026-01-18 07:32:34.285714,80,Sfax
+E004,Workshop Event 4,Entrepreneurship,2026-01-26 23:18:51.428571,113,Sfax
+E005,Workshop Event 5,Entrepreneurship,2026-02-04 15:05:08.571428,106,Online
+E006,Career Development Event 6,Technology,2026-02-13 06:51:25.714285,61,Tunis
+E007,Networking Event 7,Entrepreneurship,2026-02-21 22:37:42.857142,173,Tunis
+E008,Career Development Event 8,Networking,2026-03-02 14:24:00.000000,131,Sousse
+E009,Workshop Event 9,Career Development,2026-03-11 06:10:17.142857,104,Sousse
+E010,Entrepreneurship Event 10,Entrepreneurship,2026-03-19 21:56:34.285714,131,Sousse
+E011,Career Development Event 11,Workshop,2026-03-28 13:42:51.428571,60,Online
+E012,Technology Event 12,Workshop,2026-04-06 05:29:08.571428,121,Tunis
+E013,Networking Event 13,Entrepreneurship,2026-04-14 21:15:25.714285,133,Online
+E014,Career Development Event 14,Career Development,2026-04-23 13:01:42.857142,107,Sfax
+E015,Workshop Event 15,Networking,2026-05-02 04:48:00.000000,177,Sfax
+E016,Career Development Event 16,Technology,2026-05-10 20:34:17.142857,95,Sfax
+E017,Technology Event 17,Career Development,2026-05-19 12:20:34.285714,79,Tunis
+E018,Networking Event 18,Career Development,2026-05-28 04:06:51.428571,134,Sfax
+E019,Workshop Event 19,Technology,2026-06-05 19:53:08.571428,185,Tunis
+E020,Workshop Event 20,Career Development,2026-06-14 11:39:25.714285,112,Sfax
+E021,Career Development Event 21,Career Development,2026-06-23 03:25:42.857142,66,Sfax
+E022,Networking Event 22,Career Development,2026-07-01 19:12:00.000000,196,Sfax
+E023,Workshop Event 23,Entrepreneurship,2026-07-10 10:58:17.142857,122,Sousse
+E024,Networking Event 24,Workshop,2026-07-19 02:44:34.285714,84,Sousse
+E025,Career Development Event 25,Networking,2026-07-27 18:30:51.428571,146,Sousse
+E026,Technology Event 26,Workshop,2026-08-05 10:17:08.571428,105,Tunis
+E027,Entrepreneurship Event 27,Workshop,2026-08-14 02:03:25.714285,192,Sfax
+E028,Technology Event 28,Workshop,2026-08-22 17:49:42.857142,101,Tunis
+E029,Workshop Event 29,Networking,2026-08-31 09:36:00.000000,137,Sousse
+E030,Entrepreneurship Event 30,Workshop,2026-09-09 01:22:17.142857,136,Sfax
+E031,Entrepreneurship Event 31,Networking,2026-09-17 17:08:34.285714,94,Tunis
+E032,Career Development Event 32,Technology,2026-09-26 08:54:51.428571,130,Online
+E033,Entrepreneurship Event 33,Technology,2026-10-05 00:41:08.571428,75,Sousse
+E034,Technology Event 34,Career Development,2026-10-13 16:27:25.714285,150,Tunis
+E035,Technology Event 35,Career Development,2026-10-22 08:13:42.857142,166,Sfax
+E036,Entrepreneurship Event 36,Networking,2026-10-31 00:00:00.000000,193,Sfax
